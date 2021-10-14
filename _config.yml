@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "권민준"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar___.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "외대부고 학생"
   location         : "대한민국 경기도 용인시"
   email            : "minjune04.kwon@gmail.com"
